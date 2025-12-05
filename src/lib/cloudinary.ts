@@ -1,6 +1,6 @@
 // src/lib/cloudinary.ts
-export const CLOUDINARY_CLOUD_NAME = "dqwerty123";  // BURANI SONRA DƏYİŞƏCƏYİK (sənin cloudinary cloud_name)
-export const CLOUDINARY_UPLOAD_PRESET = "axtarget_preset";
+export const CLOUDINARY_CLOUD_NAME = "duledfjrg";  // BURANI SONRA DƏYİŞƏCƏYİK (sənin cloudinary cloud_name)
+export const CLOUDINARY_UPLOAD_PRESET = "AxtarGet";
 
 export const uploadToCloudinary = async (file: File): Promise<string> => {
   const formData = new FormData();
